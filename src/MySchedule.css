@@ -1,0 +1,32 @@
+.myscheduleprimary .header input {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid white;
+    width: 165px;
+}
+
+.myscheduleprimary .header button {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+    margin-right: 0px;
+    background-color: rgb(73, 73, 248);
+    color: white;
+    border: 2px solid rgb(73, 73, 248) ;
+}
+
+.myscheduleprimary .header button:hover {
+    background-color: rgb(4, 4, 88);
+    border: 2px solid rgb(4, 4, 88) ;
+    cursor: pointer;
+}
+
+.myscheduleprimary .theList li {
+    color: rgb(10, 10, 10);
+    background-color: rgba(255, 255, 255, .5);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    list-style: none;
+}
+
